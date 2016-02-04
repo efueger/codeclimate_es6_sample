@@ -3,9 +3,10 @@ engines:
   eslint:
     enabled: true
     config:
-      # extensions:
-      # - .es6
-      # - .js
+      extensions:
+      - .es6
+      - .js
+      - .jsx
 ratings:
   paths:
   - "**.js"
