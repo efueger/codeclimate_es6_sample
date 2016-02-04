@@ -5,6 +5,7 @@ engines:
     config:
       extensions:
       - .es6
+      - .js
 ratings:
   paths:
   - "**.js"
