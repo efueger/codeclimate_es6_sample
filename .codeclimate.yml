@@ -3,11 +3,12 @@ engines:
   eslint:
     enabled: true
     config:
-      extensions:
-      - .es6
-      - .js
+      # extensions:
+      # - .es6
+      # - .js
 ratings:
   paths:
   - "**.js"
   - "**.es6"
+  - "**.jsx"
 exclude_paths: []
